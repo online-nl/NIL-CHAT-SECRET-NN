@@ -1,0 +1,6 @@
+{
+  "name": "NiL dArK NeT",
+  "description": "Stylish real-time messenger with secure PIN authentication, elegant message bubbles, custom profile badges, and voice/video calling.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
